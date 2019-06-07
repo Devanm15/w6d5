@@ -67,8 +67,3 @@ console.log(firstPlaylist);
 console.log(firstPlaylist.playlistRating);
 console.log(firstPlaylist.totalDuration);
 console.log(firstLibrary)
-
-
-// A Track has a title, a rating (an integer from 1 to 5) and a length (integer in seconds) all of which are required when creating a new track
-// Each Playlist also has an overallRating function which will calculate the rating by averaging the rating of its tracks
-// Each Playlist also has a totalDuration function which will sum the duration of all of its track
